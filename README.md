@@ -1,3 +1,9 @@
+Atividade 6 - Curso de Full-Stack da FIAP
+
+A atividade consiste em corrigir o erro do código e criar componentes.
+
+--------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
